@@ -1,6 +1,6 @@
 # Terraform AWS Infrastructure
 
-This project demonstrates Infrastructure as Code using Terraform to provision AWS networking resources.
+This project demonstrates Infrastructure as Code (IaC) using Terraform to provision AWS networking resources.
 
 ## Resources Created
 - VPC
